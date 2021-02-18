@@ -6,3 +6,5 @@
 # This comment was made by Brandon Norman on 18 Feburary 2021.
 # Additional text that is wanted from the lab not real sure what to put but 
 # This is going to be fun.
+Text to add more text to the local repository to push to the remote repository
+with the git push command.
