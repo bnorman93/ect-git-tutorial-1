@@ -8,3 +8,4 @@
 # This is going to be fun.
 Text to add more text to the local repository to push to the remote repository
 with the git push command.
+Adding comments via webpage per instructed on the weekly deliverable 5 needed for class.
